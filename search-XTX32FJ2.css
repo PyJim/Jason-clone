@@ -107,7 +107,6 @@
     text-overflow: ellipsis;
     white-space: nowrap;
     font-family: var(--font-family);
-    -webkit-appearance: textfield
 }
 
 .aa-Input::-webkit-search-decoration,.aa-Input::-webkit-search-cancel-button,.aa-Input::-webkit-search-results-button,.aa-Input::-webkit-search-results-decoration {
